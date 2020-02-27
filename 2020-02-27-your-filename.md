@@ -1,1 +1,0 @@
-![]({{site.baseurl}}//mindmap.jpg)
